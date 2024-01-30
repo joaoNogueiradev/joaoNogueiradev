@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+João+Luiz+Lima+Nogueira;I'm+24+years+old;I+am+from+Caucaia+-+CE+,+in+Brazil;Welcome!+:%29)](https://git.io/typing-svg)
 
-<br>
-
 ### Hi there 👋, I'm joaoNogueiradev 
 - 🔭 Currently looking for my first opportunity in the area
 - 🌱 Studying Javascript, HTML and CSS
@@ -11,7 +9,6 @@
 - 📫 My contact E-mail: devjoaoluiz@gmail.com
 - ⚡ Fun fact: Fluency in english language 📓
 
-  <br>
 
 <div>
   <a href="mailto:devjoaoluiz@gmail.com" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
