@@ -4,7 +4,7 @@
 
 ### Hi there 👋, I'm joaoNogueiradev 
 - 🔭 Currently looking for my first opportunity in the area
-- 🌱 Studying Javascript, HTML e CSS
+- 🌱 Studying Javascript, HTML and CSS
 - 👀 Techs I look forward to learn: NodeJS, ExpressJS and Pythom
 - 📫 My contact E-mail: devjoaoluiz@gmail.com
 - ⚡ Fun fact: Fluency in english language 📓
