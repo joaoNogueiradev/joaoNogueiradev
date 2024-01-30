@@ -52,5 +52,3 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{joaoNogueiradev}/count.svg" /></p> 
 <br></div>
 
-![snake gif](https://github.com/joaoNogueiradev/joaoNogueiradev/blob/output/github-contribution-grid-snake.svg)
-
