@@ -1,28 +1,14 @@
 ### Hi there 👋, I'm joaoNogueiradev 
-- 🔭 Currently looking for my first opportunity in the area
-- 🌱 Studying Javascript, HTML and CSS
-- 👀 Techs I look forward to learn: NodeJS, ExpressJS and Pythom
+- 🔭 Software Developer
+- 🌱 Studying Typescript, React and Node.JS
+- 👀 Techs I look forward to learn: Next.JS, ExpressJS and CI/CD
 - 📫 My contact E-mail: devjoaoluiz@gmail.com
 - ⚡ Fun fact: Fluency in english language 📓
-
 
 <div>
   <a href="mailto:devjoaoluiz@gmail.com" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-luiz-lima-nogueira-646580196/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://steamcommunity.com/profiles/76561199057907104/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a> 
-</div>
-
-<br>
-
-<hr>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaoNogueiradev&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br>
-  
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaoNogueiradev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&rank_icon=github&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="joaoNogueiradev github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoNogueiradev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 <br><br>
